@@ -1,0 +1,5 @@
+1- Pour ce programme on aura a d'abord mettre deux ordinateurs en reseau : l'un sera le serveur et l'autre le client. Ensuite, on aura a faire de telle maniere que le client puisse pinger le serveur. Quand cela sera fait, on aura a recuperer ensuite le contenu de fichier créé au niveau du client puis à l'envoyer au serveur de telle maniere quil puisse creer a son niveau un fichier de la meme taille que celui du client et y recuperer le contenu du fichier du client et le lire 
+
+2-Pour regler ce probleme faudra creer une memoire partagée
+
+3 - Solution (client. c et serveur.c);
