@@ -1,0 +1,5 @@
+1- La valeur finale dans la mémoire partagée est 0
+
+2- Pour regler ce probleme on doit creer un semaphore
+
+3- Solution (fichier main.c et w.c)
